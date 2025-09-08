@@ -14,7 +14,7 @@ app = Flask(__name__)
 CORS(app)
 
 # 이미지 서버 url
-serverurl = "https://health.iot4health.co.kr:8300/"
+serverurl = ""
 
 
 # url 경로상 이미지 확인, 타입 변경
